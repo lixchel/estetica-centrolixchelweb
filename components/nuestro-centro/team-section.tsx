@@ -10,9 +10,9 @@ const teamMembers = [
   },
   {
     name: "Aleanneth Olivares",
-    role: "Especialista en Tratamientos Corporales",
+    role: "Ayudante y Secretaŕía",
     image: "/fotos/sesion_maderoterapia_062.webp?height=300&width=300",
-    description: "Experta en técnicas de masaje y tratamientos reductores.",
+    description: "Atención al cliente de este negocio familiar",
   },
 ]
 
